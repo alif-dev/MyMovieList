@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Movie List</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="user_rating_text">User rating:\ </string>
+    <string name="release_date_text">Release date:\ </string>
+    <string name="no_connectivity_message">Tidak Tersambung ke Internet atau Gangguan Jaringan!</string>
+</resources>
